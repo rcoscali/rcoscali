@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **rcoscali/rcoscali** 
+
+- 🔭 I’m currently working on an advanced anomaly detection using AI and kernel provenance graphs. 
+- 🌱 I’m currently learning agentic AI and how to efficiently infere GNN on embedded systems (using NPU with GNN)
+
 <!--
 **rcoscali/rcoscali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
